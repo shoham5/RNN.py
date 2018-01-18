@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Desktop/rnn/Data-20180114T103655Z-001/Data/after_process/classFinal_code.py" />
+    <orderEntry type="jdk" jdkName="Python 3.5.4 (C:\Users\shoham\AppData\Local\Programs\Python\Python35\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
